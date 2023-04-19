@@ -1,0 +1,12 @@
+{
+    "name": "airman/hexlet",
+    "description": "hexletproject",
+    "type": "project",
+    "authors": [
+        {
+            "name": "alexandrkonishchev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
