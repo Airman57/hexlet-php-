@@ -8,5 +8,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "tightenco/collect": "dev-laravel-9-ongoing"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.2.x-dev"
+    }
 }
