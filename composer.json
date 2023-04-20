@@ -8,6 +8,9 @@
         }
     ],
     "minimum-stability": "dev",
+    "scripts": {
+        "phpcs": "phpcs"
+    },
     "autoload": {
         "files": [
             "src/Runner.php"
@@ -17,6 +20,7 @@
         "tightenco/collect": "dev-laravel-9-ongoing"
     },
     "require-dev": {
-        "phpunit/phpunit": "10.2.x-dev"
+        "phpunit/phpunit": "10.2.x-dev",
+        "squizlabs/php_codesniffer": "4.0.x-dev"
     }    
 }
